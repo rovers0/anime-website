@@ -1,0 +1,31 @@
+.logotop
+{
+	margin-right: 30px;
+	height: 55px;
+    width: 200px;
+}
+	
+
+.clear
+{
+	clear: both;
+	line-height: 0px;
+	overflow: hidden;
+	display: block;
+	height: 0px;
+	max-height: 0px;
+}
+.sidebar{
+    padding-left: 35px;
+}
+
+body{
+	background-repeat: no-repeat;
+}
+.nonemarker::marker {
+	list-style-type: none;
+}
+img{
+	max-width: 100%;
+    height: auto;
+}
